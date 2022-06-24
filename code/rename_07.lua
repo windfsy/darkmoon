@@ -1,6 +1,0 @@
-
-function onInitTask(task, user, file)
-
-pd.messagebox("1111111111111111111111111111111111111111111")
-pd.logInfo("11122435256256653653465346")
-end
